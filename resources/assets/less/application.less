@@ -1,0 +1,29 @@
+@import "../vendor/bootstrap/less/bootstrap";
+@import "../vendor/font-awesome/less/font-awesome";
+@import "application/variables";
+@import "application/posts";
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.navbar-custom {
+  margin-bottom: 0;
+  .inside {
+    margin: 1rem auto;
+    max-width: 710px;
+    width: 80%;
+  }
+}
+
+ul.languages {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  li {
+    display: inline-table;
+    list-style: outside none none;
+    margin-right: 5px;
+    cursor: pointer;
+  }
+}

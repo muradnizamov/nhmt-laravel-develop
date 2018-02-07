@@ -1,0 +1,277 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"su",
+				"subscription_id"
+			],
+			[
+				"insert",
+				"insert_date"
+			],
+			[
+				"user",
+				"user_id"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"last_filter": "Material Theme: Activate theme",
+		"selected_items":
+		[
+			[
+				"Material Theme: Activate theme",
+				"Material Theme: Activate theme"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Murad/Code/nhmt-laravel-develop-branch",
+		"/C/Users/Murad/Code/nhmt-laravel-develop-branch/resources",
+		"/C/Users/Murad/Code/nhmt-laravel-develop-branch/resources/views"
+	],
+	"file_history":
+	[
+		"/C/Users/Murad/Code/nhmt-laravel-develop-branch/storage/logs/laravel.log",
+		"/C/Users/Murad/Code/nhmt-laravel-develop-branch/resources/views/contact.blade.php",
+		"/C/Users/Murad/Code/nhmt-laravel-develop-branch/resources/views/welcome.blade.php",
+		"/C/Users/Murad/Code/nhmt-laravel-develop-branch/app/Http/Controllers/Auth/ResetPasswordController.php",
+		"/C/Users/Murad/Code/nhmt-laravel-develop-branch/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/Users/Murad/Code/nhmt-laravel-develop-branch/app/Http/Controllers/Auth/LoginController.php",
+		"/C/Users/Murad/Code/nhmt-laravel-develop-branch/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/C/Users/Murad/Code/nhmt-laravel-develop-branch/app/Http/Controllers/MonitoringController.php",
+		"/C/Users/Murad/Code/nhmt-laravel-develop-branch/app/Http/Controllers/DbController.php",
+		"/C/Users/Murad/Code/nhmt-laravel-develop-branch/app/Http/Controllers/Controller.php",
+		"/C/Users/Murad/Code/nhmt-laravel-develop-branch/app/Post.php",
+		"/C/Users/Murad/Code/nhmt-laravel-develop-branch/routes/web.php",
+		"/C/Users/Murad/Code/nhmt-laravel-develop-branch/.env",
+		"/C/Users/Murad/Code/nhmt-laravel-develop-branch/bower.json",
+		"/C/Users/Murad/Code/nhmt-laravel-develop-branch/composer.json",
+		"/C/Users/Murad/Code/nhmt-laravel-develop-branch/yarn.lock",
+		"/C/Users/Murad/Code/nhmt-laravel-develop-branch/database/migrations/2017_07_08_115106_create_employee_table.php",
+		"/C/Users/Murad/Code/nhmt-laravel-develop-branch/database/migrations/2017_12_08_152207_categories_table.php",
+		"/C/Users/Murad/Code/nhmt-laravel-develop-branch/database/migrations/2017_12_09_033953_create_corporate_table.php",
+		"/C/Users/Murad/Code/nhmt-laravel-develop-branch/database/migrations/2017_07_08_19879_line_ups.php",
+		"/C/Users/Murad/Code/nhmt-laravel-develop-branch/app/Question.php",
+		"/C/Users/Murad/Code/nhmt-laravel-develop-branch/app/Http/Controllers/PaginationController.php",
+		"/C/Users/Murad/Code/nhmt-laravel-develop-branch/app/Http/Controllers/Netice.php",
+		"/C/Users/Murad/Code/nhmt-laravel-develop-branch/app/Http/Controllers/Site.php",
+		"/C/Users/Murad/Code/MISCELLANEOUS CODE IMPLEMENTING WITH ORACLE 11G APPLICATION/index.php",
+		"/C/Users/Murad/Desktop/en.yaml",
+		"/C/Users/Murad/Desktop/Неиспользуемые ярлыки as of 04.17/errors.rb.txt",
+		"/C/HashiCorp/Vagrant/embedded/gems/gems/vagrant-1.9.4/plugins/communicators/ssh/communicator.rb",
+		"/C/HashiCorp/Vagrant/embedded/gems/gems/vagrant-1.9.4/lib/vagrant/errors.rb",
+		"/C/HashiCorp/Vagrant/embedded/gems/gems/vagrant-1.9.4/templates/locales/en.yml",
+		"/C/Users/Murad/Desktop/Неиспользуемые ярлыки as of 04.17/homestead-oracle installing result from gitbash 03-Jan-18/homestead-oracle installling result from gitbash - Copy",
+		"/C/Users/Murad/Desktop/Неиспользуемые ярлыки as of 04.17/homestead-oracle installing result from gitbash 03-Jan-18/homestead-oracle installing result from gitbash 03-Jan-18",
+		"/C/Users/Murad/Desktop/Неиспользуемые ярлыки as of 04.17/homestead-oracle installling result from gitbash",
+		"/C/Users/Murad/homestead-oracle-18/config/Homestead.yaml",
+		"/C/Users/Murad/homestead-oracle/config/Homestead.yaml",
+		"/C/Users/Murad/Desktop/Неиспользуемые ярлыки as of 04.17/en.yaml",
+		"/C/Users/Murad/homestead-oracle/scripts/homestead.rb",
+		"/C/Users/Murad/Desktop/cinemaplus.xml",
+		"/C/Users/Murad/EMOBILE AS OF 13JUL17/API/Hesabaz Bakcell Popup.xml",
+		"/C/Users/Murad/homestead-oracle/scripts/install-maria.sh",
+		"/C/Users/Murad/homestead-oracle/scripts/clear-variables.sh",
+		"/C/Users/Murad/homestead-oracle/scripts/create-mysql.sh",
+		"/C/Users/Murad/homestead-oracle/scripts/create-oracle.sh",
+		"/C/Users/Murad/homestead-oracle/scripts/create-postgres.sh",
+		"/C/Users/Murad/homestead-oracle/scripts/cron-schedule.sh",
+		"/C/Users/Murad/homestead-oracle/scripts/install-oci8.sh",
+		"/C/Users/Murad/homestead-oracle/scripts/serve-hhvm.sh",
+		"/C/Users/Murad/homestead-oracle/scripts/serve-laravel.sh",
+		"/C/Users/Murad/homestead-oracle/scripts/serve-proxy.sh",
+		"/C/Users/Murad/homestead-oracle/scripts/serve-symfony2.sh",
+		"/C/Users/Murad/homestead-oracle/scripts/clear-nginx.sh",
+		"/C/Users/Murad/homestead-oracle/scripts/blackfire.sh",
+		"/C/Users/Murad/Desktop/kode",
+		"/C/Users/Murad/EMOBILE AS OF 13JUL17/DOCUMENTATIONS/6070 Key_sent, Key_received.docx",
+		"/C/Users/Murad/EMOBILE AS OF 13JUL17/DOCUMENTATIONS/thy.dat",
+		"/C/Users/Murad/Desktop/thy.txt",
+		"/C/Users/Murad/Desktop/thy.dat",
+		"/C/Users/Murad/Music/lana-del-rey_lana-del-rey_-_summer-wine.mp3",
+		"/C/Users/Murad/Desktop/remplate.php",
+		"/C/Users/Murad/Desktop/template selected",
+		"/C/wamp64/www/Initiatives Center/index.php",
+		"/C/Users/Murad/Downloads/miscellaneous (3).sql",
+		"/C/Users/Murad/Downloads/miscellaneous (5).sql",
+		"/C/Users/Murad/Downloads/miscellaneous (4).sql",
+		"/C/Users/Murad/Downloads/miscellaneous (2).sql",
+		"/C/Users/Murad/Downloads/miscellaneous.sql",
+		"/C/Users/Murad/Downloads/miscellaneous (1).sql",
+		"/C/Users/Murad/EMOBILE AS OF 13JUL17/5555.pcap",
+		"/C/Users/Murad/Code/MISCELLANEOUS CODE IMPLEMENTING WITH ORACLE 11G APPLICATION/miscellaneous.php",
+		"/C/Users/Murad/Code/MISCELLANEOUS CODE IMPLEMENTING WITH ORACLE 11G APPLICATION/miscellaneous.html",
+		"/C/Users/Murad/Code/MISCELLANEOUS CODE IMPLEMENTING WITH ORACLE 11G APPLICATION/miscellaneous notes.html",
+		"/C/Users/Murad/Desktop/index.php",
+		"/C/Users/Murad/Desktop/footer.php",
+		"/C/Users/Murad/Desktop/header.php",
+		"/C/Users/Murad/Desktop/function.min.js",
+		"/C/Users/Murad/Desktop/function.initial.js",
+		"/C/Users/Murad/Code/xmod_hesab.az_ulduzum_redemption_homestead/Notes",
+		"/C/Users/Murad/Code/XB STIMULATION 21.05.17 BETA VERSION/Xalq Bank Stimulation 21.05.17/Notes.txt",
+		"/C/Users/Murad/Code/Xalq Bank Stimulation 21.05.17 — reserve 1/Notes.txt",
+		"/C/Users/Murad/Code/Xalq Bank Stimulation 21.05.17/Notes.txt",
+		"/C/Users/Murad/EMOBILE AS OF 13JUL17/API/cinemaplus.txt",
+		"/C/Users/Murad/EMOBILE AS OF 13JUL17/API/parkcinema.txt",
+		"/C/Users/Murad/EMOBILE AS OF 13JUL17/from-wsdl.xml",
+		"/C/Users/Murad/Downloads/BAKCELL_17072017.TXT",
+		"/C/Users/Murad/homestead-oracle/Vagrantfile",
+		"/C/Users/Murad/Code/xmod_hesab.az_ulduzum_redemption_TEST/public/campaigns.php"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "nhmt-laravel-develop-branch.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

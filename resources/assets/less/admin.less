@@ -1,0 +1,80 @@
+@import "../vendor/admin-lte/build/less/AdminLTE";
+@import "../vendor/admin-lte/build/less/skins/skin-blue";
+@import "../vendor/font-awesome/less/font-awesome";
+@import "../vendor/bootstrap-datepicker/less/datepicker3";
+@import "admin/variables";
+@import "admin/functions";
+@import "admin/items";
+@import "admin/overrides";
+@import "admin/backgrounds";
+@import "admin/login-box";
+@import "admin/table-buttons";
+
+.box-special {
+  background: @gray-lighter none repeat scroll 0 0;
+  margin: 150px auto;
+  text-align: center;
+}
+
+.validation {
+  button {
+    list-style: none;
+  }
+  span {
+    display: list-item;
+    margin-left: 10px;
+  }
+}
+
+.uploaded-file {
+  margin-top: -60px;
+  float: right;
+}
+
+.category {
+  margin-top: 25px;
+  a {
+    color: @white;
+    padding: 2px 1em;
+  }
+}
+
+.post-title {
+  a {
+    color: @gray-lighter;
+  }
+}
+
+ul.languages {
+  padding-left: 0;
+  li {
+    display: inline;
+    list-style: none;
+    cursor: pointer;
+    img {
+      height: 32px;
+      width: 32px;
+    }
+  }
+}
+
+.chosen-one:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.nav-tabs-custom ul li a {
+  color: @gray-darker;
+}
+
+.right-charts {
+  height: 195px;
+}
+
+#world-map {
+  height: 700px;
+}
+
+.user-image {
+  max-height: 150px;
+}
